@@ -1,4 +1,4 @@
-# Transformer 구현 실습
+# Transformer Implementation
 
 https://github.com/tunz/transformer-pytorch/blob/e7266679f0b32fd99135ea617213f986ceede056/model/transformer.py#L201 참고하여 작성
 
