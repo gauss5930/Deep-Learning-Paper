@@ -1,4 +1,4 @@
-# ELMo 구현 실습
+# ELMo 
 
 https://github.com/InhyeokYoo/NLP/blob/master/papers/4.ELMo 참고하여 작성
 
