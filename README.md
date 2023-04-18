@@ -81,6 +81,7 @@ You can see more paper reviews, code implementation, and mathematics description
 |LXMERT: Learning Cross-Modality Encoder Representations from Transformers|https://arxiv.org/abs/1908.07490|https://cartinoe5930.tistory.com/entry/LXMERT-Learning-Cross-Modality-Encoder-Representations-from-Transformers-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |VL-BERT: Pre-training of Generic Visual-Linguistic Representations|https://arxiv.org/abs/1908.08530|https://cartinoe5930.tistory.com/entry/VL-BERT-Pre-training-of-Generic-Visual-Linguistic-Representations-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |VLP: Unified Vision-Language Pre-Training for Image Captioning and VQA|https://arxiv.org/abs/1909.11059|https://cartinoe5930.tistory.com/entry/VLP-Unified-Vision-Language-Pre-Traning-for-Image-Captioning-and-VQA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks|https://arxiv.org/abs/2004.06165|https://cartinoe5930.tistory.com/entry/Oscar-Object-Semantics-Aligned-Pre-training-for-Vision-Language-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 ## Deep Learning Concept
 
