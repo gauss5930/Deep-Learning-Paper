@@ -85,6 +85,7 @@ You can see more paper reviews, code implementation, and mathematics description
 |ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision|https://arxiv.org/abs/2102.03334|https://cartinoe5930.tistory.com/entry/ViLT-Vision-and-Language-Transformer-Without-Convolution-or-Region-Supervision-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision|https://arxiv.org/abs/2102.05918|https://cartinoe5930.tistory.com/entry/ALIGN-Scaling-up-Visual-and-Vision-Language-Representation-with-Noisy-Text-Supervision-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ALBEF: Vision and Language Representation Learning with Momentum Distillation|https://arxiv.org/abs/2107.07651|https://cartinoe5930.tistory.com/entry/ALBEF-Vision-and-Language-Representation-Learning-with-Momentum-Distillation-%EB%85%BC%EB%AC%B8|
+|BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation|https://arxiv.org/abs/2201.12086|https://cartinoe5930.tistory.com/entry/BLIP-Bootstrapping-Language-Image-Pre-training-fro-Unified-Vision-Language-Understanding-and-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 ## Deep Learning Concept
 
