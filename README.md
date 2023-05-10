@@ -62,6 +62,13 @@ You can see more paper reviews, code implementation, and mathematics description
 |Chain-of-Thought: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models|blog: https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html, paper: https://arxiv.org/abs/2201.11903|https://cartinoe5930.tistory.com/entry/LM%EC%9D%B4-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%9C%A0%EC%82%AC%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Chain-of-Thought-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |RLHF(Reinforcement Learning from Human Feedback)|https://huggingface.co/blog/rlhf|https://cartinoe5930.tistory.com/entry/%EC%82%AC%EB%9E%8C%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Reinforcement-Learning-from-Human-Feedback-RLHF|
 
+### Project: Alignment Problem of LLM(submitted)
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|T0: Multitask Prompted Training Enables Zero-shot Task Generalization|https://arxiv.org/abs/2110.08207|https://cartinoe5930.tistory.com/entry/T0-Multitask-Prompted-Training-Enables-Zero-shot-Task-Generalization-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|FLAN: Fine-tuned Language Models are Zero-shot Learners|https://arxiv.org/abs/2109.01652|https://cartinoe5930.tistory.com/entry/FLAN-Fine-tuned-Language-Models-are-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Super-Natural Instructions: Generalization via Declarative Instructions on 1600+ NLP Tasks|https://arxiv.org/abs/2204.07705|https://cartinoe5930.tistory.com/entry/Super-Natural-Instructions-Generalization-via-Declarative-Instructions-on-1600-NLP-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+
 ## Computer Vision
 
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -82,12 +89,15 @@ You can see more paper reviews, code implementation, and mathematics description
 |VL-BERT: Pre-training of Generic Visual-Linguistic Representations|https://arxiv.org/abs/1908.08530|https://cartinoe5930.tistory.com/entry/VL-BERT-Pre-training-of-Generic-Visual-Linguistic-Representations-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |VLP: Unified Vision-Language Pre-Training for Image Captioning and VQA|https://arxiv.org/abs/1909.11059|https://cartinoe5930.tistory.com/entry/VLP-Unified-Vision-Language-Pre-Traning-for-Image-Captioning-and-VQA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks|https://arxiv.org/abs/2004.06165|https://cartinoe5930.tistory.com/entry/Oscar-Object-Semantics-Aligned-Pre-training-for-Vision-Language-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|VinVL: Revisiting Visual Representations in Vision-Language Models|https://arxiv.org/abs/2101.00529|https://cartinoe5930.tistory.com/entry/VinVL-Revisiting-Visual-Representations-in-Vision-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision|https://arxiv.org/abs/2102.03334|https://cartinoe5930.tistory.com/entry/ViLT-Vision-and-Language-Transformer-Without-Convolution-or-Region-Supervision-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision|https://arxiv.org/abs/2102.05918|https://cartinoe5930.tistory.com/entry/ALIGN-Scaling-up-Visual-and-Vision-Language-Representation-with-Noisy-Text-Supervision-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ALBEF: Vision and Language Representation Learning with Momentum Distillation|https://arxiv.org/abs/2107.07651|https://cartinoe5930.tistory.com/entry/ALBEF-Vision-and-Language-Representation-Learning-with-Momentum-Distillation-%EB%85%BC%EB%AC%B8|
 |SimVLM: Simple Visual Language Model Pretraining with Weak Supervision|https://arxiv.org/abs/2108.10904|https://cartinoe5930.tistory.com/entry/SimVLM-Simple-Visual-Language-Model-Pre-training-with-Weak-Supervision-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation|https://arxiv.org/abs/2201.12086|https://cartinoe5930.tistory.com/entry/BLIP-Bootstrapping-Language-Image-Pre-training-fro-Unified-Vision-Language-Understanding-and-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|VLMo: Unified Vision-Language Pre-training with Mixture-of-Modality-Experts|https://arxiv.org/abs/2111.02358|https://cartinoe5930.tistory.com/entry/VLMo-Unified-Vision-Language-Pre-training-with-Mixture-of-Modality-Experts-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|LiT🔥 : Zero-Shot Transfer with Locked-image text Tuning|https://arxiv.org/abs/2111.07991|https://cartinoe5930.tistory.com/entry/LiT%F0%9F%94%A5-Zero-Shot-Transfer-with-Locked-image-text-Tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |FLAVA: A Foundational Language And Vision Alignment Model|https://arxiv.org/abs/2112.04482|https://cartinoe5930.tistory.com/entry/FLAVA-A-Foundational-Language-And-Vision-Alignment-Model-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation|https://arxiv.org/abs/2201.12086|https://cartinoe5930.tistory.com/entry/BLIP-Bootstrapping-Language-Image-Pre-training-fro-Unified-Vision-Language-Understanding-and-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 ## Deep Learning Concept
 
