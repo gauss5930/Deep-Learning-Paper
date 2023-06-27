@@ -15,7 +15,7 @@ You can see more paper reviews, code implementation, and mathematics description
 |GRU: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation|https://arxiv.org/abs/1406.1078|https://cartinoe5930.tistory.com/entry/GRU-Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |LSTM vs. GRU: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling|https://arxiv.org/abs/1412.3555|https://cartinoe5930.tistory.com/entry/LSTM-vs-GRU-%EB%AD%90%EA%B0%80-%EB%8D%94-%EB%82%98%EC%9D%84%EA%B9%8C-Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-### Language Models
+### Language Models🤖
 #### Basic📖
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
@@ -47,36 +47,6 @@ You can see more paper reviews, code implementation, and mathematics description
 |DistilBERT: a distilled version of BERT|https://arxiv.org/abs/1910.01108|https://cartinoe5930.tistory.com/entry/DistilBERT-a-distilled-version-of-BERT-smaller-faster-cheaper-and-lighter-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |It's Not Just Size That Matters: Small Language Models are Also Few-Shot Learners(PET 응용)|https://arxiv.org/abs/2009.07118|https://cartinoe5930.tistory.com/entry/Its-Not-Just-Size-That-Matters-Small-Language-Models-Are-Also-Few-Shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-#### Large Language Models(LLMs)💣
-|Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
-|LaMDA: Language Models for Dialog Applications|blog: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html, paper: https://arxiv.org/abs/2201.08239|https://cartinoe5930.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%B1%97%EB%B4%87-LaMDA%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Language-Models-for-Dialog-Applications-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|PaLM: Scaling Language Modeling with Pathways|blog: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html, paper: https://arxiv.org/abs/2204.02311|1: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B0, 2: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B02|
-|GPT-4: Technical Review|blog: https://openai.com/research/gpt-4, paper: https://arxiv.org/abs/2303.08774|https://cartinoe5930.tistory.com/entry/GPT-4-Techinal-Report-Review|
-|Large Language Models are Zero-Shot Reasoners(CoT 응용)|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-
-#### Instruction-tuning🧑‍🏫 & RLHF👥
-Instruction-tuning
-|Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
-|FLAN: Fine-tuned Language Models are Zero-shot Learners|https://arxiv.org/abs/2109.01652|https://cartinoe5930.tistory.com/entry/FLAN-Fine-tuned-Language-Models-are-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|T0: Multitask Prompted Training Enables Zero-shot Task Generalization|https://arxiv.org/abs/2110.08207|https://cartinoe5930.tistory.com/entry/T0-Multitask-Prompted-Training-Enables-Zero-shot-Task-Generalization-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Super-Natural Instructions: Generalization via Declarative Instructions on 1600+ NLP Tasks|https://arxiv.org/abs/2204.07705|https://cartinoe5930.tistory.com/entry/Super-Natural-Instructions-Generalization-via-Declarative-Instructions-on-1600-NLP-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-shot Learners|https://arxiv.org/abs/2210.02969|https://cartinoe5930.tistory.com/entry/Guess-the-Instruction-Flipped-Learning-Makes-Language-Models-Stronger-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Scaling Instruction-Finetuned Language Models|https://arxiv.org/abs/2210.11416|https://cartinoe5930.tistory.com/entry/Scaling-Instruction-Finetuned-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Exploring the Benefits of Training Expert Language Models over Instruction Tuning|https://arxiv.org/abs/2302.03202|https://cartinoe5930.tistory.com/entry/Exploring-the-Benefits-of-Training-Expert-Language-Models-over-Instruction-Tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|ICIL: In-Context Instruction Learning|https://arxiv.org/abs/2302.14691|https://cartinoe5930.tistory.com/entry/ICIL-In-Context-Instruction-Learning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Instruction tuning with GPT-4|https://arxiv.org/abs/2304.03277|https://cartinoe5930.tistory.com/entry/Instruction-Tuning-with-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-
-Reinforcement Learning from Human Feedback
-|Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
-|RLHF(Reinforcement Learning from Human Feedback)|https://huggingface.co/blog/rlhf|https://cartinoe5930.tistory.com/entry/%EC%82%AC%EB%9E%8C%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Reinforcement-Learning-from-Human-Feedback-RLHF|
-|Red Teaming Language Models with Language Models|https://arxiv.org/abs/2202.03286|https://cartinoe5930.tistory.com/entry/Red-Teaming-Language-Models-with-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|InstructGPT: Training language models to follow instructions with human feedback|https://arxiv.org/abs/2203.02155|https://cartinoe5930.tistory.com/entry/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|Training a helpful and harmless assistant with reinforcement learning from human feedback|https://arxiv.org/abs/2204.05862|https://cartinoe5930.tistory.com/entry/Training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|ALMoST: Aligning Large Language Models through Synthetic Feedback|https://arxiv.org/abs/2305.13735|https://cartinoe5930.tistory.com/entry/Aligning-Large-Language-Models-through-Synthetic-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-
 #### Open-source Language Model(Scaling law)🤗
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
@@ -92,7 +62,37 @@ Reinforcement Learning from Human Feedback
 |Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/pdf/2306.02707|https://cartinoe5930.tistory.com/entry/%F0%9F%90%ACOrca-Progressive-Learning-from-Complex-Explanation-Traces-of-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |phi-1: Text Books Are All You Need|https://arxiv.org/abs/2306.11644|https://cartinoe5930.tistory.com/entry/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B1%B4-%EC%98%A4%EC%A7%81-%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%88%98%EC%A4%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%BF%90-%F0%9F%93%96-phi-1-Textbooks-Are-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-#### Prompt Engineering👨‍🔧
+#### Large Language Models(LLMs)💣
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|LaMDA: Language Models for Dialog Applications|blog: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html, paper: https://arxiv.org/abs/2201.08239|https://cartinoe5930.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%B1%97%EB%B4%87-LaMDA%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Language-Models-for-Dialog-Applications-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|PaLM: Scaling Language Modeling with Pathways|blog: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html, paper: https://arxiv.org/abs/2204.02311|1: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B0, 2: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B02|
+|GPT-4: Technical Review|blog: https://openai.com/research/gpt-4, paper: https://arxiv.org/abs/2303.08774|https://cartinoe5930.tistory.com/entry/GPT-4-Techinal-Report-Review|
+|Large Language Models are Zero-Shot Reasoners(CoT 응용)|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+
+### Instruction-tuning & RLHF
+#### Instruction-tuning🧑‍🏫
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|FLAN: Fine-tuned Language Models are Zero-shot Learners|https://arxiv.org/abs/2109.01652|https://cartinoe5930.tistory.com/entry/FLAN-Fine-tuned-Language-Models-are-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|T0: Multitask Prompted Training Enables Zero-shot Task Generalization|https://arxiv.org/abs/2110.08207|https://cartinoe5930.tistory.com/entry/T0-Multitask-Prompted-Training-Enables-Zero-shot-Task-Generalization-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Super-Natural Instructions: Generalization via Declarative Instructions on 1600+ NLP Tasks|https://arxiv.org/abs/2204.07705|https://cartinoe5930.tistory.com/entry/Super-Natural-Instructions-Generalization-via-Declarative-Instructions-on-1600-NLP-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-shot Learners|https://arxiv.org/abs/2210.02969|https://cartinoe5930.tistory.com/entry/Guess-the-Instruction-Flipped-Learning-Makes-Language-Models-Stronger-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Scaling Instruction-Finetuned Language Models|https://arxiv.org/abs/2210.11416|https://cartinoe5930.tistory.com/entry/Scaling-Instruction-Finetuned-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Exploring the Benefits of Training Expert Language Models over Instruction Tuning|https://arxiv.org/abs/2302.03202|https://cartinoe5930.tistory.com/entry/Exploring-the-Benefits-of-Training-Expert-Language-Models-over-Instruction-Tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|ICIL: In-Context Instruction Learning|https://arxiv.org/abs/2302.14691|https://cartinoe5930.tistory.com/entry/ICIL-In-Context-Instruction-Learning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Instruction tuning with GPT-4|https://arxiv.org/abs/2304.03277|https://cartinoe5930.tistory.com/entry/Instruction-Tuning-with-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+
+#### Reinforcement Learning from Human Feedback(RLHF)👥
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|RLHF(Reinforcement Learning from Human Feedback)|https://huggingface.co/blog/rlhf|https://cartinoe5930.tistory.com/entry/%EC%82%AC%EB%9E%8C%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Reinforcement-Learning-from-Human-Feedback-RLHF|
+|Red Teaming Language Models with Language Models|https://arxiv.org/abs/2202.03286|https://cartinoe5930.tistory.com/entry/Red-Teaming-Language-Models-with-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|InstructGPT: Training language models to follow instructions with human feedback|https://arxiv.org/abs/2203.02155|https://cartinoe5930.tistory.com/entry/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Training a helpful and harmless assistant with reinforcement learning from human feedback|https://arxiv.org/abs/2204.05862|https://cartinoe5930.tistory.com/entry/Training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|ALMoST: Aligning Large Language Models through Synthetic Feedback|https://arxiv.org/abs/2305.13735|https://cartinoe5930.tistory.com/entry/Aligning-Large-Language-Models-through-Synthetic-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+
+### Prompt Engineering👨‍🔧
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |What is the 'Prompt Engineering'?|see my blog!|https://cartinoe5930.tistory.com/entry/Prompt-Engineering%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C|
@@ -101,7 +101,7 @@ Reinforcement Learning from Human Feedback
 |ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models|https://arxiv.org/abs/2305.10601|https://cartinoe5930.tistory.com/entry/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-#### Method📐
+### Method📐
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |Data Augmentations in NLP|blogs: https://neptune.ai/blog/data-augmentation-nlp, https://amitness.com/2020/05/data-augmentation-for-nlp/?fbclid=IwAR11MkccCti-2cD93RYftNPHb7Wxdj7AlZG7NNG4EhPaBkmiJkcBPtdl1eo|https://cartinoe5930.tistory.com/entry/Data-Augmentation-methods-in-NLP|
@@ -110,7 +110,7 @@ Reinforcement Learning from Human Feedback
 |Pathways|https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/|https://cartinoe5930.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%97%AC%EB%9F%AC-%EA%B0%90%EA%B0%81%EC%9D%84-%EB%8A%90%EB%82%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Pathways-%EB%A6%AC%EB%B7%B0|
 |Self-Instruct: Aligning Language Model with Self Generated Instruction|https://arxiv.org/abs/2212.10560|https://cartinoe5930.tistory.com/entry/Self-Instruct-Aligning-Language-Model-with-Self-Generated-Instructions-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-#### Analysis🔬 & Interesting🫣
+### Analysis🔬 & Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |LMSI: Large Language Models Can Self-Improve|https://arxiv.org/abs/2210.11610|https://cartinoe5930.tistory.com/entry/LMSI-Large-Language-Models-can-Self-Improve-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
