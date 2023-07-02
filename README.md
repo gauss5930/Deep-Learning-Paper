@@ -110,6 +110,8 @@ You can see more paper reviews, code implementation, and mathematics description
 |Pathways|https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/|https://cartinoe5930.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%97%AC%EB%9F%AC-%EA%B0%90%EA%B0%81%EC%9D%84-%EB%8A%90%EB%82%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Pathways-%EB%A6%AC%EB%B7%B0|
 |Self-Instruct: Aligning Language Model with Self Generated Instruction|https://arxiv.org/abs/2212.10560|https://cartinoe5930.tistory.com/entry/Self-Instruct-Aligning-Language-Model-with-Self-Generated-Instructions-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Reflexion: Language Agents with Verbal Reinforcement Learning|https://arxiv.org/abs/2303.11366|https://cartinoe5930.tistory.com/entry/Reflexion-Language-Agents-with-Verbal-Reinforcement-Learning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Self-Refine: Iterative Refinement with Self-Feedback|https://arxiv.org/abs/2303.17651|https://cartinoe5930.tistory.com/entry/Self-Refine-Iterative-Refinement-with-Self-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|SelFee: Iterative Self-Revising LLM Expowered by Self-Feedback Generation|https://kaistai.github.io/SelFee/|https://cartinoe5930.tistory.com/entry/SelFee-Iterative-Self-Revising-LLM-Expowered-by-Self-Feedback-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 ### Analysis🔬 & Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
