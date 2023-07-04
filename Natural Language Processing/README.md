@@ -88,6 +88,7 @@ There are some that have not yet been implemented, but will be implemented addit
 |CoT: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models|blog: https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html, paper: https://arxiv.org/abs/2201.11903|https://cartinoe5930.tistory.com/entry/LM%EC%9D%B4-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%9C%A0%EC%82%AC%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Chain-of-Thought-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Zero-shot CoT: Large Language Models Are Zero-shot Reasoners|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models|https://arxiv.org/abs/2305.10601|https://cartinoe5930.tistory.com/entry/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning|https://arxiv.org/abs/2305.14045|https://cartinoe5930.tistory.com/entry/CoT-Collection-Improving-Zero-shot-and-Few-shot-Learning-of-Language-Models-via-Chain-of-Thought-Fine-tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 ### Method📐
