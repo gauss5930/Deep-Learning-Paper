@@ -101,6 +101,11 @@ You can see more paper reviews, code implementation, and mathematics description
 |ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models|https://arxiv.org/abs/2305.10601|https://cartinoe5930.tistory.com/entry/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning|https://arxiv.org/abs/2305.14045|https://cartinoe5930.tistory.com/entry/CoT-Collection-Improving-Zero-shot-and-Few-shot-Learning-of-Language-Models-via-Chain-of-Thought-Fine-tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|BIG-Bench Hard: Challenging BIG-Bench tasks and whether chain-of-thought can solve them|https://arxiv.org/abs/2210.09261|Will be uploaded later!|
+|Model Specialization: Specializing Smaller Language Models towards Multi-Step Reasoning|https://arxiv.org/abs/2301.12726|Will be uploaded later!|
+|CoT KD: Teaching Small Language Models to Reason|https://arxiv.org/abs/2212.08410|Will be uploaded later!|
+|Auto-CoT: Automatic Chain of Thought Prompting in Large Language Models|https://arxiv.org/abs/2210.03493|Will be uploaded later!|
+
 
 ### Method📐
 |Paper Title|Paper or reference site Link|Paper Review|
