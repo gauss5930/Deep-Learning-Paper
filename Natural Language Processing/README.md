@@ -58,6 +58,7 @@ There are some that have not yet been implemented, but will be implemented addit
 |Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/pdf/2306.02707|https://cartinoe5930.tistory.com/entry/%F0%9F%90%ACOrca-Progressive-Learning-from-Complex-Explanation-Traces-of-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |phi-1: Text Books Are All You Need|https://arxiv.org/abs/2306.11644|https://cartinoe5930.tistory.com/entry/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B1%B4-%EC%98%A4%EC%A7%81-%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%88%98%EC%A4%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%BF%90-%F0%9F%93%96-phi-1-Textbooks-Are-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |AlpaGasus: Training a Better Alpaca with Fewer Data|https://arxiv.org/abs/2307.08701|Will be uploaded later!|
+|Llama 2: Open Foundation and Fine-Tuned Chat Models|https://arxiv.org/abs/2307.09288|Will be uploaded later!|
 |Platypus: Quick, Cheap, and Powerful Refinement of LLMs|https://arxiv.org/abs/2308.07317|Will be uploaded later!|
 
 #### Large Language Models(LLMs)💣
