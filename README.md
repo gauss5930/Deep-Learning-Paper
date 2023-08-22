@@ -61,6 +61,8 @@ You can see more paper reviews, code implementation, and mathematics description
 |Falcon & RefinedWeb|https://arxiv.org/abs/2306.01116|https://cartinoe5930.tistory.com/entry/Open-LLM-Leaderboard%EB%A5%BC-%ED%9C%A9%EC%93%B4-Falcon%F0%9F%A6%85-LLM-Falcon-RefinedWeb|
 |Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/pdf/2306.02707|https://cartinoe5930.tistory.com/entry/%F0%9F%90%ACOrca-Progressive-Learning-from-Complex-Explanation-Traces-of-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |phi-1: Text Books Are All You Need|https://arxiv.org/abs/2306.11644|https://cartinoe5930.tistory.com/entry/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B1%B4-%EC%98%A4%EC%A7%81-%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%88%98%EC%A4%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%BF%90-%F0%9F%93%96-phi-1-Textbooks-Are-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|AlpaGasus: Training a Better Alpaca with Fewer Data|https://arxiv.org/abs/2307.08701|Will be uploaded later!|
+|Platypus: Quick, Cheap, and Powerful Refinement of LLMs|https://arxiv.org/abs/2308.07317|Will be uploaded later!|
 
 #### Large Language Models(LLMs)💣
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -70,8 +72,8 @@ You can see more paper reviews, code implementation, and mathematics description
 |GPT-4: Technical Review|blog: https://openai.com/research/gpt-4, paper: https://arxiv.org/abs/2303.08774|https://cartinoe5930.tistory.com/entry/GPT-4-Techinal-Report-Review|
 |Large Language Models are Zero-Shot Reasoners(CoT 응용)|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
-### Instruction-tuning & RLHF
-#### Instruction-tuning🧑‍🏫 & Efficient-tuning ✨
+### Fine-tuning
+#### Instruction-tuning🧑‍🏫
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |FLAN: Fine-tuned Language Models are Zero-shot Learners|https://arxiv.org/abs/2109.01652|https://cartinoe5930.tistory.com/entry/FLAN-Fine-tuned-Language-Models-are-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -95,7 +97,22 @@ You can see more paper reviews, code implementation, and mathematics description
 |Red Teaming Language Models with Language Models|https://arxiv.org/abs/2202.03286|https://cartinoe5930.tistory.com/entry/Red-Teaming-Language-Models-with-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |InstructGPT: Training language models to follow instructions with human feedback|https://arxiv.org/abs/2203.02155|https://cartinoe5930.tistory.com/entry/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Training a helpful and harmless assistant with reinforcement learning from human feedback|https://arxiv.org/abs/2204.05862|https://cartinoe5930.tistory.com/entry/Training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback|https://arxiv.org/abs/2305.14387|Will be uploaded later!|
 |ALMoST: Aligning Large Language Models through Synthetic Feedback|https://arxiv.org/abs/2305.13735|https://cartinoe5930.tistory.com/entry/Aligning-Large-Language-Models-through-Synthetic-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback|https://arxiv.org/abs/2307.15217|Will be uploaded later!|
+
+#### Efficient-tuning ✨
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|Adapter: Parameter-Efficient learning for NLP|https://arxiv.org/abs/1902.00751|Will be uploaded later!|
+|Prefix-Tuning: Optimizing Continuous Prompts for Generation|https://arxiv.org/abs/2101.00190|Will be uploaded later!|
+|LoRA: Low-Rank Adaptation of Large Language Models|https://arxiv.org/abs/2106.09685|Will be uploaded later!|
+|Towards a Unified View of Parameter-Efficient Transfer Learning|https://arxiv.org/abs/2110.04366|Will be uploaded later!|
+|UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning|https://arxiv.org/abs/2110.07577|Will be uploaded later!|
+|(IA)^3: Few-Shot Parameter-Efficient Fine-TUning is Better and Cheaper than In-Context Learning|https://arxiv.org/abs/2205.05638|Will be uploaded later!|
+|QLoRA: Efficient Fine-tuning of Quantized LLMs|https://arxiv.org/abs/2305.14314|Will be uploaded later!|
+|Stack More Layers Differently: High-Rank Training Through Low-Rank Updates|https://arxiv.org/abs/2307.05695|Will be uploaded later!|
+|LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|https://arxiv.org/abs/2307.13269|Will be uploaded later!|
 
 ### Prompt Engineering 👨‍🔧(CoT)
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -109,8 +126,10 @@ You can see more paper reviews, code implementation, and mathematics description
 |ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models|https://arxiv.org/abs/2305.10601|https://cartinoe5930.tistory.com/entry/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning|https://arxiv.org/abs/2305.14045|https://cartinoe5930.tistory.com/entry/CoT-Collection-Improving-Zero-shot-and-Few-shot-Learning-of-Language-Models-via-Chain-of-Thought-Fine-tuning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Measuring Faitfulness in Chain-of-Thought Reasoning|https://arxiv.org/abs/2307.13702|Will be uploaded later!|
+|SoT: Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding|https://arxiv.org/abs/2307.15337|Will be uploaded later!|
 
-### Method📐
+### Method 📐
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |Data Augmentations in NLP|blogs: https://neptune.ai/blog/data-augmentation-nlp, https://amitness.com/2020/05/data-augmentation-for-nlp/?fbclid=IwAR11MkccCti-2cD93RYftNPHb7Wxdj7AlZG7NNG4EhPaBkmiJkcBPtdl1eo|https://cartinoe5930.tistory.com/entry/Data-Augmentation-methods-in-NLP|
@@ -121,15 +140,24 @@ You can see more paper reviews, code implementation, and mathematics description
 |Reflexion: Language Agents with Verbal Reinforcement Learning|https://arxiv.org/abs/2303.11366|https://cartinoe5930.tistory.com/entry/Reflexion-Language-Agents-with-Verbal-Reinforcement-Learning-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Self-Refine: Iterative Refinement with Self-Feedback|https://arxiv.org/abs/2303.17651|https://cartinoe5930.tistory.com/entry/Self-Refine-Iterative-Refinement-with-Self-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |SelFee: Iterative Self-Revising LLM Expowered by Self-Feedback Generation|https://kaistai.github.io/SelFee/|https://cartinoe5930.tistory.com/entry/SelFee-Iterative-Self-Revising-LLM-Expowered-by-Self-Feedback-Generation-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Shpherd: A Critic for Language Model Generation|https://arxiv.org/abs/2308.04592|Will be uploaded later!|
+|Self-Alignment with Instruction Backtranslation|https://arxiv.org/pdf/2308.06259|Will be uploaded later!|
 
-### Benchmarks 📜 & Evaluation Metric ⚔️
+### Benchmarks 🏆 & Evaluation Metric ⚔️
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |BIG-Bench Hard: Challenging BIG-Bench tasks and whether chain-of-thought can solve tham|https://arxiv.org/abs/2210.09261|Will be uploaded later!|
 |Large Language Models are not Fair Evaluators|https://arxiv.org/abs/2305.17926|Will be uploaded later!|
 |MT-Bench: Judging LLM-as-a-judge with MT-Bench|https://arxiv.org/abs/2306.05685|Will be uploaded later!|
 |InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models|https://arxiv.org/abs/2306.04757|Will be uploaded later!|
+|FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets|https://arxiv.org/abs/2307.10928|Will be uploaded later!|
 
+### Context of LLM 📜
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|LongNet: Scaling Transformers to 1,000,000,000 Tokens|https://arxiv.org/abs/2307.02486|Will be uploaded later!|
+|Lost in the Middle: How Language Models Use Long Contexts|https://arxiv.org/abs/2307.03172|Will be uploaded later!|
+||||
 
 ### Analysis🔬 & Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -142,7 +170,13 @@ You can see more paper reviews, code implementation, and mathematics description
 |RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text|https://arxiv.org/abs/2305.13304|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%97%90-%EB%B0%98%EB%B3%B5-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98LSTM%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%A9%B4-RecurrentGPT-Interactive-Generation-of-Arbitrarily-Long-Text-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |The False Promise of Imitating Proprietary LLMs|https://arxiv.org/abs/2305.15717|https://cartinoe5930.tistory.com/entry/%EA%B8%B0%EC%A1%B4-imitation-model%EC%9D%80-%EC%9E%98%EB%AA%BB-%ED%95%99%EC%8A%B5%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8B%A4-%F0%9F%AB%A2-The-False-Promise-of-Imitating-Proprietary-L|
 |Large Language Models as Tool Makers|https://arxiv.org/abs/2305.17126|https://cartinoe5930.tistory.com/entry/LM%EC%9D%B4-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-%F0%9F%94%AC-Large-Language-Models-as-Tool-Makers-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|TULU: How Far Can Camels Go? Exploring the State of Instructiopn Tuning on Open Resources|https://arxiv.org/abs/2306.04751|Will be uploaded later!|
 |Knowledge Distillation of Large Language Models|https://arxiv.org/abs/2306.08543|https://cartinoe5930.tistory.com/entry/KD%EC%97%90-%EC%82%B4%EC%A7%9D%EC%9D%98-%EB%B3%80%ED%99%94%EB%A5%BC-%EC%A4%98%EB%B3%B4%EC%9E%90-%F0%9F%98%9C-Knowledge-Distillation-of-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|How Is ChatGPT's Behavior Changing over Time?|https://arxiv.org/abs/2307.09009|Will be uploaded later!|
+|Scaling Relationship on Learning Mathematical Reasoning with Large Language Models|https://arxiv.org/abs/2308.01825|Will be uploaded later!|
+|ToolLLM: Facilitating Lare Language Models to Master 16000+ Real-World APIs|https://arxiv.org/abs/2307.16789|Will be uploaded later!|
+|SelfCheck: Using LLMs to Zero-shot Check Their Own Step-by-Step Reasoning|https://arxiv.org/abs/2308.00436|Will be uploaded later!|
+|Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification|https://arxiv.org/abs/2308.07921|Will be uploaded later!|
 
 ### Korean LM 🇰🇷
 |Paper Title|Paper or reference site Link|Paper Review|
