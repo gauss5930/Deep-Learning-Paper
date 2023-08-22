@@ -5,6 +5,22 @@ In addition, you can check my Korean paper reviews by clicking the link attached
 
 You can see more paper reviews, code implementation, and mathematics descriptions in my [blog](https://cartinoe5930.tistory.com/) <- click here
 
+## My Insight 🧐
+
+I write several articles to explain in detail some Deep Learning technologies. These articles can be found in the table below.
+
+|Title|Blog link|
+|---|---|
+|How has scaling law developed in NLP? 🤔|https://cartinoe5930.tistory.com/entry/How-has-scaling-law-developed-in-NLP-%F0%9F%A4%94-NLP%EC%97%90%EC%84%9C-scaling-law%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%9C%EC%A0%84%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C|
+|Closed-source🔒? Open-source🔓? What is that?? 🤨🤔|https://cartinoe5930.tistory.com/entry/The-hopes-of-researchers-Open-source-%F0%9F%A4%97-%EC%97%B0%EA%B5%AC%EC%9E%90%EB%93%A4%EC%9D%98-%ED%9D%AC%EB%A7%9D-Open-source-%F0%9F%A4%97|
+|Context window of LM, should it be long? Should it be short? 📏🤨|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
+|What is the most optimal way to evaluate LM? 😎|https://cartinoe5930.tistory.com/entry/LM%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%B5%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%8F%89%EA%B0%80%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%F0%9F%98%8E|
+|The performance of ChatGPT is getting worse?!?!? 😲😲|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EC%95%88-%EC%A2%8B%EC%95%84%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%8B%A4%EA%B5%AC-%F0%9F%98%B2%F0%9F%98%B2|
+|You can fine-tune too! with PEFT 🤗|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
+|Let's think step by step like humans! 🧠🤔|https://cartinoe5930.tistory.com/entry/%ED%95%9C-%EB%8B%A8%EA%B3%84-%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EC%9D%B8%EA%B0%84%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EC%9E%90-%F0%9F%A7%A0%F0%9F%A4%94|
+|Development process of fine-tuning method!! From fine-tuning to RLHF 🦖➡️🧑|https://cartinoe5930.tistory.com/entry/Fine-tuning-method%EC%9D%98-%EC%A7%84%ED%99%94-%EA%B3%BC%EC%A0%95-%F0%9F%A6%96%E2%9E%A1%EF%B8%8F%F0%9F%A7%91|
+
+
 ## Natural Language Processing
 
 ### Word Embedding & Neural Networks
@@ -62,6 +78,7 @@ You can see more paper reviews, code implementation, and mathematics description
 |Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/pdf/2306.02707|https://cartinoe5930.tistory.com/entry/%F0%9F%90%ACOrca-Progressive-Learning-from-Complex-Explanation-Traces-of-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |phi-1: Text Books Are All You Need|https://arxiv.org/abs/2306.11644|https://cartinoe5930.tistory.com/entry/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B1%B4-%EC%98%A4%EC%A7%81-%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%88%98%EC%A4%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%BF%90-%F0%9F%93%96-phi-1-Textbooks-Are-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |AlpaGasus: Training a Better Alpaca with Fewer Data|https://arxiv.org/abs/2307.08701|Will be uploaded later!|
+|Llama 2: Open Foundation and Fine-Tuned Chat Models|https://arxiv.org/abs/2307.09288|https://cartinoe5930.tistory.com/entry/The-hopes-of-researchers-Open-source-%F0%9F%A4%97-%EC%97%B0%EA%B5%AC%EC%9E%90%EB%93%A4%EC%9D%98-%ED%9D%AC%EB%A7%9D-Open-source-%F0%9F%A4%97|
 |Platypus: Quick, Cheap, and Powerful Refinement of LLMs|https://arxiv.org/abs/2308.07317|Will be uploaded later!|
 
 #### Large Language Models(LLMs)💣
@@ -104,9 +121,9 @@ You can see more paper reviews, code implementation, and mathematics description
 #### Efficient-tuning ✨
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
-|Adapter: Parameter-Efficient learning for NLP|https://arxiv.org/abs/1902.00751|Will be uploaded later!|
-|Prefix-Tuning: Optimizing Continuous Prompts for Generation|https://arxiv.org/abs/2101.00190|Will be uploaded later!|
-|LoRA: Low-Rank Adaptation of Large Language Models|https://arxiv.org/abs/2106.09685|Will be uploaded later!|
+|Adapter: Parameter-Efficient learning for NLP|https://arxiv.org/abs/1902.00751|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
+|Prefix-Tuning: Optimizing Continuous Prompts for Generation|https://arxiv.org/abs/2101.00190|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
+|LoRA: Low-Rank Adaptation of Large Language Models|https://arxiv.org/abs/2106.09685|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
 |Towards a Unified View of Parameter-Efficient Transfer Learning|https://arxiv.org/abs/2110.04366|Will be uploaded later!|
 |UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning|https://arxiv.org/abs/2110.07577|Will be uploaded later!|
 |(IA)^3: Few-Shot Parameter-Efficient Fine-TUning is Better and Cheaper than In-Context Learning|https://arxiv.org/abs/2205.05638|Will be uploaded later!|
@@ -155,9 +172,9 @@ You can see more paper reviews, code implementation, and mathematics description
 ### Context of LLM 📜
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
-|LongNet: Scaling Transformers to 1,000,000,000 Tokens|https://arxiv.org/abs/2307.02486|Will be uploaded later!|
-|Lost in the Middle: How Language Models Use Long Contexts|https://arxiv.org/abs/2307.03172|Will be uploaded later!|
-||||
+|Extending Context Window of Large Language Models via Positional Interpolation|https://arxiv.org/abs/2306.15595|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
+|LongNet: Scaling Transformers to 1,000,000,000 Tokens|https://arxiv.org/abs/2307.02486|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
+|Lost in the Middle: How Language Models Use Long Contexts|https://arxiv.org/abs/2307.03172|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
 
 ### Analysis🔬 & Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -172,7 +189,7 @@ You can see more paper reviews, code implementation, and mathematics description
 |Large Language Models as Tool Makers|https://arxiv.org/abs/2305.17126|https://cartinoe5930.tistory.com/entry/LM%EC%9D%B4-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-%F0%9F%94%AC-Large-Language-Models-as-Tool-Makers-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |TULU: How Far Can Camels Go? Exploring the State of Instructiopn Tuning on Open Resources|https://arxiv.org/abs/2306.04751|Will be uploaded later!|
 |Knowledge Distillation of Large Language Models|https://arxiv.org/abs/2306.08543|https://cartinoe5930.tistory.com/entry/KD%EC%97%90-%EC%82%B4%EC%A7%9D%EC%9D%98-%EB%B3%80%ED%99%94%EB%A5%BC-%EC%A4%98%EB%B3%B4%EC%9E%90-%F0%9F%98%9C-Knowledge-Distillation-of-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
-|How Is ChatGPT's Behavior Changing over Time?|https://arxiv.org/abs/2307.09009|Will be uploaded later!|
+|How Is ChatGPT's Behavior Changing over Time?|https://arxiv.org/abs/2307.09009|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EC%95%88-%EC%A2%8B%EC%95%84%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%8B%A4%EA%B5%AC-%F0%9F%98%B2%F0%9F%98%B2|
 |Scaling Relationship on Learning Mathematical Reasoning with Large Language Models|https://arxiv.org/abs/2308.01825|Will be uploaded later!|
 |ToolLLM: Facilitating Lare Language Models to Master 16000+ Real-World APIs|https://arxiv.org/abs/2307.16789|Will be uploaded later!|
 |SelfCheck: Using LLMs to Zero-shot Check Their Own Step-by-Step Reasoning|https://arxiv.org/abs/2308.00436|Will be uploaded later!|
