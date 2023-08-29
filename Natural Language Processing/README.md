@@ -125,6 +125,7 @@ There are some that have not yet been implemented, but will be implemented addit
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Measuring Faitfulness in Chain-of-Thought Reasoning|https://arxiv.org/abs/2307.13702|Will be uploaded later!|
 |SoT: Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding|https://arxiv.org/abs/2307.15337|Will be uploaded later!|
+|Graph of Thoughts: Solving Elaborate Problems with Large Language Models|https://arxiv.org/abs/2308.09687|Will be uploaded later!|
 
 ### Method 📐
 |Paper Title|Paper or reference site Link|Paper Review|
