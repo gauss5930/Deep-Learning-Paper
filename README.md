@@ -131,7 +131,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 |Stack More Layers Differently: High-Rank Training Through Low-Rank Updates|https://arxiv.org/abs/2307.05695|Will be uploaded later!|
 |LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|https://arxiv.org/abs/2307.13269|Will be uploaded later!|
 
-### Prompt Engineering 👨‍🔧(CoT)
+### Prompt Engineering 👨‍🔧
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |What is the 'Prompt Engineering'?|See my blog!|https://cartinoe5930.tistory.com/entry/Prompt-Engineering%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C|
@@ -145,6 +145,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 |Let's verify step-by-step|https://arxiv.org/abs/2305.20050|https://cartinoe5930.tistory.com/entry/Lets-verify-step-by-step-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Measuring Faitfulness in Chain-of-Thought Reasoning|https://arxiv.org/abs/2307.13702|Will be uploaded later!|
 |SoT: Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding|https://arxiv.org/abs/2307.15337|Will be uploaded later!|
+|Graph of Thoughts: Solving Elaborate Problems with Large Language Models|https://arxiv.org/abs/2308.09687|Will be uploaded later!|
 
 ### Method 📐
 |Paper Title|Paper or reference site Link|Paper Review|
