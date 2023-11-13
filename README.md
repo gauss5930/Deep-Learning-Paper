@@ -19,6 +19,8 @@ I write several articles to explain in detail some Deep Learning technologies. T
 |You can fine-tune too! with PEFT 🤗|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
 |Let's think step by step like humans! 🧠🤔|https://cartinoe5930.tistory.com/entry/%ED%95%9C-%EB%8B%A8%EA%B3%84-%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EC%9D%B8%EA%B0%84%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EC%9E%90-%F0%9F%A7%A0%F0%9F%A4%94|
 |Development process of fine-tuning method!! From fine-tuning to RLHF 🦖➡️🧑|https://cartinoe5930.tistory.com/entry/Fine-tuning-method%EC%9D%98-%EC%A7%84%ED%99%94-%EA%B3%BC%EC%A0%95-%F0%9F%A6%96%E2%9E%A1%EF%B8%8F%F0%9F%A7%91|
+|It's time to fine-tune ChatGPT!! ⏰|https://cartinoe5930.tistory.com/entry/%EC%9D%B4%EC%A0%9C%EB%8A%94-ChatGPT%EB%A5%BC-fine-tuning-%ED%95%A0-%EC%8B%9C%EA%B0%84-%E2%8F%B0|
+|Noise makes LLM better! - NEFTune 😉|https://cartinoe5930.tistory.com/entry/Noise-makes-LLM-better-NEFTune-%F0%9F%98%89|
 
 
 ## Natural Language Processing
