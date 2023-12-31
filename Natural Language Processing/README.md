@@ -35,6 +35,7 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |BigBird: Transformers for Longer Sequences|https://arxiv.org/abs/2007.14062|https://cartinoe5930.tistory.com/entry/BigBird-Transformers-for-Longer-Sequences-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |WebGPT: Browser-assisted question-answering with human feedback|https://arxiv.org/abs/2112.09332|https://cartinoe5930.tistory.com/entry/WebGPT-Browser-assisted-question-answering-with-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |OPT: Open Pre-trained Transformer Language Models|https://arxiv.org/abs/2205.01068|https://cartinoe5930.tistory.com/entry/OPT-Open-Pre-trained-Transformer-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Mamba: Linear-Time Sequence Modeling with Selective State Spaces|https://arxiv.org/abs/2312.00752|No plan!|
 
 #### Efficient Models💸
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -47,6 +48,7 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |Chinchilla: Training Compute-Optimal Large Language Models|https://arxiv.org/abs/2203.15556|https://cartinoe5930.tistory.com/entry/%EC%A7%80%EA%B8%88-%EA%B9%8C%EC%A7%80%EC%9D%98-LM-Scaling-Law%EC%97%90%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%B4-%EC%9E%88%EB%8B%A4-%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F-Chinchilla-Training-Compute-Optimal-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling|https://arxiv.org/abs/2304.01373|No plan!|
 |LIMA: Less Is More for Alignment|https://arxiv.org/abs/2305.11206|https://cartinoe5930.tistory.com/entry/LIMA-Less-Is-More-for-Alignment-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |LLaMA: Open and Efficient Foundation Language Models|https://arxiv.org/abs/2302.13971|https://cartinoe5930.tistory.com/entry/LLaMA-Open-and-Efficient-Foundation-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |WizardLM: Empowering Large Language Models to Follow Complex Instructions|https://arxiv.org/abs/2304.12244|https://cartinoe5930.tistory.com/entry/Open-domain-instruction%EC%9D%98-%ED%9A%A8%EA%B3%BC-%F0%9F%AA%84-WizardLM-Empowering-Large-Language-Models-to-Follow-Complex-Instructions-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -56,6 +58,7 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Vicuna: An Open-Source Chatbot Impressing GPT-4|https://lmsys.org/blog/2023-03-30-vicuna/|https://cartinoe5930.tistory.com/entry/Vicuna-An-Open-Source-Chatbot-Impressing-GPT-4-%EB%A6%AC%EB%B7%B0|
 |Koala: A Dialogue Model for Academic Research|https://bair.berkeley.edu/blog/2023/04/03/koala/|https://cartinoe5930.tistory.com/entry/%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B1%B4-%EA%BA%BE%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-high-quality-data-Koala%F0%9F%90%A8-A-Dialogue-Model-for-Academic-Researc|
 |Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data|https://arxiv.org/abs/2304.01196|https://cartinoe5930.tistory.com/entry/%F0%9F%90%B2Baize-An-Open-Source-Chat-Model-with-Parameter-Efficient-Tuning-on-Self-Chat-Data-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Scaling Data-Constrained Language Models|https://arxiv.org/abs/2305.16264|https://www.youtube.com/watch?v=TK0-sitkCMw&pp=ygUgaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzIzMDUuMTYyNjQ%3D|
 |Falcon & RefinedWeb|https://arxiv.org/abs/2306.01116|https://cartinoe5930.tistory.com/entry/Open-LLM-Leaderboard%EB%A5%BC-%ED%9C%A9%EC%93%B4-Falcon%F0%9F%A6%85-LLM-Falcon-RefinedWeb|
 |Orca: Progressive Learning from Complex Explanation Traces of GPT-4|https://arxiv.org/pdf/2306.02707|https://cartinoe5930.tistory.com/entry/%F0%9F%90%ACOrca-Progressive-Learning-from-Complex-Explanation-Traces-of-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |phi-1: Text Books Are All You Need|https://arxiv.org/abs/2306.11644|https://cartinoe5930.tistory.com/entry/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B1%B4-%EC%98%A4%EC%A7%81-%EA%B5%90%EA%B3%BC%EC%84%9C-%EC%88%98%EC%A4%80%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%BF%90-%F0%9F%93%96-phi-1-Textbooks-Are-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -65,8 +68,13 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Code Llama: Open Foundation Models for Code|https://arxiv.org/abs/2308.12950|No plan|
 |FLM-101B: An Open LLM and How to Train It with $100K Budget|https://arxiv.org/pdf/2309.03852|No plan!|
 |Textbooks are All You Need II: phi-1.5 technical report|https://arxiv.org/abs/2309.05463|https://huggingface.co/microsoft/phi-1_5|
+|OpenChat: Advancing Open-Source Language Models with Mixed-Quality Data|https://arxiv.org/abs/2309.11235|https://github.com/imoneoi/openchat|
 |Mistral 7B|https://arxiv.org/abs/2310.06825|https://mistral.ai/news/announcing-mistral-7b/|
 |Prometheus: Inducing Fine-grained Evaluation Capability in Language Models|https://arxiv.org/abs/2310.08491|https://huggingface.co/papers/2310.08491#652a8e7f30355beba68c1be6|
+|Zephyr: Direct Distillation of LM Alignment|https://arxiv.org/abs/2310.16944|https://www.youtube.com/watch?v=TkZBg3mKsIo|
+|Orca2: Teaching Small Language Models How to Reason|https://arxiv.org/abs/2311.11045|https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/|
+|The Falcon Series of Open Language Models|https://arxiv.org/abs/2311.16867|No plan!|
+|SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling|https://arxiv.org/abs/2312.15166|No plan!|
 
 #### Large Language Models(LLMs)💣
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -74,7 +82,8 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |LaMDA: Language Models for Dialog Applications|blog: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html, paper: https://arxiv.org/abs/2201.08239|https://cartinoe5930.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%B1%97%EB%B4%87-LaMDA%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Language-Models-for-Dialog-Applications-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |PaLM: Scaling Language Modeling with Pathways|blog: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html, paper: https://arxiv.org/abs/2204.02311|1: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B0, 2: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B02|
 |GPT-4: Technical Review|blog: https://openai.com/research/gpt-4, paper: https://arxiv.org/abs/2303.08774|https://cartinoe5930.tistory.com/entry/GPT-4-Techinal-Report-Review|
-|Large Language Models are Zero-Shot Reasoners(CoT 응용)|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
+|Gemini: A Family of Highly Capable Multimodal Models|https://arxiv.org/abs/2312.11805|No plan!|
+|AlphaCode 2 Technical Report|https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf|No plan!|
 
 ### Fine-tuning
 #### Instruction-tuning🧑‍🏫
@@ -105,6 +114,8 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |ALMoST: Aligning Large Language Models through Synthetic Feedback|https://arxiv.org/abs/2305.13735|https://cartinoe5930.tistory.com/entry/Aligning-Large-Language-Models-through-Synthetic-Feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback|https://arxiv.org/abs/2307.15217|Will be uploaded later!|
 |RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback|https://arxiv.org/abs/2309.00267|No plan!|
+|SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF|https://arxiv.org/abs/2310.05344|No plan!|
+|HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM|https://arxiv.org/abs/2311.09528|No plan!|
 
 #### Efficient-tuning ✨
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -119,10 +130,16 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Stack More Layers Differently: High-Rank Training Through Low-Rank Updates|https://arxiv.org/abs/2307.05695|Will be uploaded later!|
 |LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition|https://arxiv.org/abs/2307.13269|Will be uploaded later!|
 
-### High-quality Data 💫
+### Dataset 💫
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
 |Instruction Mining: High-quality Instruction Data Selection for Large Language Models|https://arxiv.org/abs/2307.06290|No plan!|
+|SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization|https://arxiv.org/abs/2212.10465|No plan!|
+|MoDS: Model-oriented Data Selection for Instruction Tuning|https://arxiv.org/abs/2311.15653|No plan!|
+|Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models|https://arxiv.org/abs/2312.06585|No plan!|
+|Magicoder: Source Code Is All You Need|https://arxiv.org/abs/2312.02120|No plan!|
+|WaveCoder: Widespread and Versatile Enhanced Instruction Tuning with Refined Data Generation|https://arxiv.org/abs/2312.14187|No plan!|
+|What Makes Good Data for Alignment: A Comprehensive Study of Automatic Data Selection in Instruction Tuning|https://arxiv.org/abs/2312.15685|No plan!|
 
 ### Prompt Engineering 👨‍🔧
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -141,11 +158,17 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Graph of Thoughts: Solving Elaborate Problems with Large Language Models|https://arxiv.org/abs/2308.09687|Will be uploaded later!|
 |From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting|https://arxiv.org/abs/2309.04269|No plan!|
 |Chain-of-Verification Resuces Hallucination in Large Language Models|https://arxiv.org/abs/2309.11495|https://www.youtube.com/watch?v=l0zFjwRegog&pp=ygUgaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzIzMDkuMTE0OTU%3D|
+|Contrastive Chain-of-Thought Prompting|https://arxiv.org/abs/2311.09277|No plan!|
+|Thread of Thought Unraveling Chaotic Contexts|https://arxiv.org/abs/2311.08734|No plan!|
+|System 2 Attention (Is Something You Might Need Too)|https://arxiv.org/abs/2311.11829|No plan!|
+|Chain of Code: Reasoning with a Language Model-Augmented Code Emulator|https://arxiv.org/abs/2312.04474|No plan!|
 
 ### Model Efficiency 🧰
 |Paper Title|Paper|Paper Review|
 |---|---|---|
 |FlashAttention: Fast and Memory-Efficient Exact Attention|https://arxiv.org/abs/2205.14135|https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad|
+|Exponentially Faster Language Modeling|https://arxiv.org/abs/2311.10770|No plan!|
+|LLM in a flash: Efficient Large Language Model Inference with Limited Memory|https://arxiv.org/abs/2312.11514|No plan!|
 
 ### Method 📐
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -163,6 +186,17 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |Shpherd: A Critic for Language Model Generation|https://arxiv.org/abs/2308.04592|Will be uploaded later!|
 |Self-Alignment with Instruction Backtranslation|https://arxiv.org/pdf/2308.06259|Will be uploaded later!|
 |SCREWS: A Modular Framework for Reasoning with Revisions|https://arxiv.org/pdf/2309.13075|No plan!|
+|NEFTune: Noisy Embeddings Improve Instruction Fineuning|https://arxiv.org/abs/2310.05914|https://cartinoe5930.tistory.com/entry/Noise-makes-LLM-better-NEFTune-%F0%9F%98%89|
+|Language Models are Super Mario; Absorbing Abilities from Homologous Models as a Free Lunch|https://arxiv.org/abs/2311.03099|No plan!|
+|LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment|https://arxiv.org/abs/2312.09979|No plan!|
+
+### Retrieval Augmented Generation(RAG) 📚
+|Paper Title|Paper or reference site Link|Paper Review|
+|---|---|---|
+|Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks|https://arxiv.org/abs/2005.11401|No plan!|
+|Self-RAG: Learning to Retrieve, Generate, And Critique Through Self-Reflection|https://arxiv.org/abs/2310.11511|No plan!|
+|InstructRetro: Instruction Tuning Post Retrieval-Augmented Pretraining|https://arxiv.org/abs/2310.07713|No plan!|
+|Retrieval-Augmented Generation for Large Language Models: A Survey|https://arxiv.org/abs/2312.10997|No plan!|
 
 ### Benchmarks 🏆 & Evaluation Metric ⚔️
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -172,6 +206,7 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |MT-Bench: Judging LLM-as-a-judge with MT-Bench|https://arxiv.org/abs/2306.05685|Will be uploaded later!|
 |InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models|https://arxiv.org/abs/2306.04757|Will be uploaded later!|
 |FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets|https://arxiv.org/abs/2307.10928|Will be uploaded later!|
+|GAIA: A Benchmark for General AI Assistants|https://arxiv.org/abs/2311.12983|No plan!|
 
 ### Context of LLM 📜
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -192,6 +227,10 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |How Is ChatGPT's Behavior Changing over Time?|https://arxiv.org/abs/2307.09009|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EC%95%88-%EC%A2%8B%EC%95%84%EC%A7%80%EA%B3%A0-%EC%9E%88%EB%8B%A4%EA%B5%AC-%F0%9F%98%B2%F0%9F%98%B2|
 |Large Language Models Cannot Self-Correct Reasoning Yet|https://arxiv.org/abs/2310.01798||No plan!|
 |How Far Are Large Language Models from Agents with Theory-of-Mind|https://arxiv.org/pdf/2310.03051|No plan!|
+|Can LLMs Follow Simple Rules|https://arxiv.org/abs/2311.04235|https://www.youtube.com/watch?v=CY6o43037OY|
+|Camels in a Changing Climate; Enhancing LM Adaptation with Tulu 2|https://arxiv.org/abs/2311.10702|No plan!|
+|ChatGPT's One-year Anniversary; Are Open-Source Large Language Models Catching up|https://arxiv.org/abs/2311.15653|No plan!|
+|An In-depth Look at Gemini's Language Abilities|https://arxiv.org/abs/2312.11444|No plan!|
 
 ### Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
@@ -210,12 +249,16 @@ Some have not yet been implemented but will be implemented additionally. 😊
 |FIAT: Fusing Learning Paradigms with Instruction-Accelerated Tuning|https://arxiv.org/abs/2309.04663|https://www.youtube.com/watch?v=EZsZEcRDte0&pp=ygUgaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzIzMDkuMDQ2NjM%3D|
 |Contrastive Decoding Improves Reasoning in Large Language Models|https://arxiv.org/abs/2309.09117|https://www.youtube.com/watch?v=nMR56TkwC1Q&pp=ygUgaHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzIzMDkuMDkxMTc%3D|
 |Think before you speak: Training Language Models with Pause Tokens|https://arxiv.org/abs/2310.02226|https://www.youtube.com/watch?v=MtJ1jacr_yI|
+|Large Language Models Can Learn Rules|https://arxiv.org/abs/2310.07064|No plan!|
+|In-context Pretraining: Language Modeling Beyond Document Boundaries|https://arxiv.org/abs/2310.10638|https://www.youtube.com/watch?v=GI-0lAaILrU|
+|Learning From Mistakes Makes LLM Better Reasoner|https://arxiv.org/abs/2310.20689|No plan!|
+|Language Models can be Logical Solvers|https://arxiv.org/abs/2311.06158|No plan!|
+|MART: Improving LLM Safety with Multi-round Automatic Red-Teaming|https://arxiv.org/abs/2311.07689|No plan!|
+|Fine-tuning Language Models for Factuality|https://arxiv.org/abs/2311.08401|No plan!|
+|Positional Description Matters for Transformers Arithmetic|https://arxiv.org/abs/2311.14737|No plan!|
+|Weak-to-Strong Generalization: Eliciting Strong Capabilities with Weak Supervision|https://arxiv.org/abs/2312.09390|https://openai.com/research/weak-to-strong-generalization|
+|TinyGSM: achieving higher than 80 percentage on GSM8k with small language models|https://arxiv.org/abs/2312.09241|No plan!|
 
-### Korean LM 🇰🇷
-|Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
-|Morpheme-aware Subword Tokenizer: An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks|https://arxiv.org/abs/2010.02534|Will be uploaded later!|
-|What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers|https://arxiv.org/abs/2109.04650|Will be uploaded later!|
 ### Korean LM 🇰🇷
 |Paper Title|Paper or reference site Link|Paper Review|
 |---|---|---|
