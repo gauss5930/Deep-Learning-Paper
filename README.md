@@ -10,7 +10,7 @@ You can see more paper reviews, code implementation, and mathematics description
 I write several articles to explain in detail some Deep Learning technologies. These articles can be found in the table below.
 
 |Title|Blog link|
-|---|---|
+|:---:|---|
 |How has scaling law developed in NLP? 🤔|https://cartinoe5930.tistory.com/entry/How-has-scaling-law-developed-in-NLP-%F0%9F%A4%94-NLP%EC%97%90%EC%84%9C-scaling-law%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%9C%EC%A0%84%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C|
 |Closed-source🔒? Open-source🔓? What is that?? 🤨🤔|https://cartinoe5930.tistory.com/entry/The-hopes-of-researchers-Open-source-%F0%9F%A4%97-%EC%97%B0%EA%B5%AC%EC%9E%90%EB%93%A4%EC%9D%98-%ED%9D%AC%EB%A7%9D-Open-source-%F0%9F%A4%97|
 |Context window of LM, should it be long? Should it be short? 📏🤨|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
@@ -27,7 +27,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Word Embedding & Neural Networks
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Embedding Matrix|https://wikidocs.net/book/2155|https://cartinoe5930.tistory.com/entry/Embedding-Matrix-%ED%95%99%EC%8A%B5|
 |LSTM: Long-Short Term Memory|https://colah.github.io/posts/2015-08-Understanding-LSTMs/|https://cartinoe5930.tistory.com/entry/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-LSTM-networks-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0|
 |GRU: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation|https://arxiv.org/abs/1406.1078|https://cartinoe5930.tistory.com/entry/GRU-Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -36,7 +36,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 ### Language Models🤖
 #### Basic📖
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Transformer: Attention Is All You Need|https://arxiv.org/abs/1706.03762|https://cartinoe5930.tistory.com/entry/Transformer-Attention-Is-All-You-Need-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ELMo: Deep contextualized word representations|https://arxiv.org/abs/1802.05365|https://cartinoe5930.tistory.com/entry/Pre-trained-Language-Modeling-paper-reading1-ELMo-Deep-contextualized-word-representations|
 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|https://arxiv.org/abs/1810.04805|https://cartinoe5930.tistory.com/entry/Pre-trained-Language-Modeling-paper-reading2-BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding|
@@ -61,14 +61,14 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 #### Efficient Models💸
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |TinyBERT: Distilling BERT for Natural Language Understanding|https://arxiv.org/abs/1909.10351|https://cartinoe5930.tistory.com/entry/TinyBERT-Distilling-BERT-for-Natural-Language-Understanding-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |DistilBERT: a distilled version of BERT|https://arxiv.org/abs/1910.01108|https://cartinoe5930.tistory.com/entry/DistilBERT-a-distilled-version-of-BERT-smaller-faster-cheaper-and-lighter-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |It's Not Just Size That Matters: Small Language Models are Also Few-Shot Learners(PET 응용)|https://arxiv.org/abs/2009.07118|https://cartinoe5930.tistory.com/entry/Its-Not-Just-Size-That-Matters-Small-Language-Models-Are-Also-Few-Shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 
 #### Open-source Language Model(Scaling law)🤗
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Chinchilla: Training Compute-Optimal Large Language Models|https://arxiv.org/abs/2203.15556|https://cartinoe5930.tistory.com/entry/%EC%A7%80%EA%B8%88-%EA%B9%8C%EC%A7%80%EC%9D%98-LM-Scaling-Law%EC%97%90%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%B4-%EC%9E%88%EB%8B%A4-%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F-Chinchilla-Training-Compute-Optimal-Large-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling|https://arxiv.org/abs/2304.01373|No plan!|
 |LIMA: Less Is More for Alignment|https://arxiv.org/abs/2305.11206|https://cartinoe5930.tistory.com/entry/LIMA-Less-Is-More-for-Alignment-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -100,7 +100,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 #### Large Language Models(LLMs)💣
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |LaMDA: Language Models for Dialog Applications|blog: https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html, paper: https://arxiv.org/abs/2201.08239|https://cartinoe5930.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%98-%EC%B5%9C%EA%B0%95-%EC%B1%97%EB%B4%87-LaMDA%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Language-Models-for-Dialog-Applications-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |PaLM: Scaling Language Modeling with Pathways|blog: https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html, paper: https://arxiv.org/abs/2204.02311|1: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B0, 2: https://cartinoe5930.tistory.com/entry/LaMDA%EC%9D%98-%EB%92%A4%EB%A5%BC-%EC%9E%87%EB%8A%94-Pathways%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B4%88%EA%B1%B0%EB%8C%80-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-PaLM-%EB%A6%AC%EB%B7%B02|
 |GPT-4: Technical Review|blog: https://openai.com/research/gpt-4, paper: https://arxiv.org/abs/2303.08774|https://cartinoe5930.tistory.com/entry/GPT-4-Techinal-Report-Review|
@@ -110,7 +110,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 ### Fine-tuning
 #### Instruction-tuning🧑‍🏫
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |FLAN: Fine-tuned Language Models are Zero-shot Learners|https://arxiv.org/abs/2109.01652|https://cartinoe5930.tistory.com/entry/FLAN-Fine-tuned-Language-Models-are-Zero-shot-Learners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |T0: Multitask Prompted Training Enables Zero-shot Task Generalization|https://arxiv.org/abs/2110.08207|https://cartinoe5930.tistory.com/entry/T0-Multitask-Prompted-Training-Enables-Zero-shot-Task-Generalization-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Super-Natural Instructions: Generalization via Declarative Instructions on 1600+ NLP Tasks|https://arxiv.org/abs/2204.07705|https://cartinoe5930.tistory.com/entry/Super-Natural-Instructions-Generalization-via-Declarative-Instructions-on-1600-NLP-Tasks-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -127,7 +127,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 #### Reinforcement Learning from Human Feedback(RLHF)👥
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |RLHF(Reinforcement Learning from Human Feedback)|https://huggingface.co/blog/rlhf|https://cartinoe5930.tistory.com/entry/%EC%82%AC%EB%9E%8C%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Reinforcement-Learning-from-Human-Feedback-RLHF|
 |Red Teaming Language Models with Language Models|https://arxiv.org/abs/2202.03286|https://cartinoe5930.tistory.com/entry/Red-Teaming-Language-Models-with-Language-Models-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |InstructGPT: Training language models to follow instructions with human feedback|https://arxiv.org/abs/2203.02155|https://cartinoe5930.tistory.com/entry/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -141,7 +141,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 #### Efficient-tuning ✨
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Adapter: Parameter-Efficient learning for NLP|https://arxiv.org/abs/1902.00751|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
 |Prefix-Tuning: Optimizing Continuous Prompts for Generation|https://arxiv.org/abs/2101.00190|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
 |LoRA: Low-Rank Adaptation of Large Language Models|https://arxiv.org/abs/2106.09685|https://cartinoe5930.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EB%8F%84-Fine-tuning-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-PEFT-%F0%9F%A4%97|
@@ -154,7 +154,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Dataset 💫
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Instruction Mining: High-quality Instruction Data Selection for Large Language Models|https://arxiv.org/abs/2307.06290|No plan!|
 |SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization|https://arxiv.org/abs/2212.10465|No plan!|
 |MoDS: Model-oriented Data Selection for Instruction Tuning|https://arxiv.org/abs/2311.15653|No plan!|
@@ -165,7 +165,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Prompt Engineering 👨‍🔧
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |What is the 'Prompt Engineering'?|See my blog!|https://cartinoe5930.tistory.com/entry/Prompt-Engineering%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C|
 |CoT: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models|blog: https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html, paper: https://arxiv.org/abs/2201.11903|https://cartinoe5930.tistory.com/entry/LM%EC%9D%B4-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EC%9C%A0%EC%82%AC%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Chain-of-Thought-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Zero-shot CoT: Large Language Models Are Zero-shot Reasoners|https://arxiv.org/abs/2205.11916|https://cartinoe5930.tistory.com/entry/Large-Language-Models-are-Zero-Shot-Reasoners-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -187,14 +187,14 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Model Efficiency 🧰
 |Paper Title|Paper|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |FlashAttention: Fast and Memory-Efficient Exact Attention|https://arxiv.org/abs/2205.14135|https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad|
 |Exponentially Faster Language Modeling|https://arxiv.org/abs/2311.10770|No plan!|
 |LLM in a flash: Efficient Large Language Model Inference with Limited Memory|https://arxiv.org/abs/2312.11514|No plan!|
 
 ### Method 📐
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Data Augmentations in NLP|blogs: https://neptune.ai/blog/data-augmentation-nlp, https://amitness.com/2020/05/data-augmentation-for-nlp/?fbclid=IwAR11MkccCti-2cD93RYftNPHb7Wxdj7AlZG7NNG4EhPaBkmiJkcBPtdl1eo|https://cartinoe5930.tistory.com/entry/Data-Augmentation-methods-in-NLP|
 |PET: Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference|https://arxiv.org/abs/2001.07676|https://cartinoe5930.tistory.com/entry/PET-Exploiting-Cloze-Questions-for-Few-Shot-Text-Classification-and-Natural-Language-Inference-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Pathways|https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/|https://cartinoe5930.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EC%97%AC%EB%9F%AC-%EA%B0%90%EA%B0%81%EC%9D%84-%EB%8A%90%EB%82%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%9C%EB%8B%A4%EB%A9%B4-Pathways-%EB%A6%AC%EB%B7%B0|
@@ -214,7 +214,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Retrieval Augmented Generation(RAG) 📚
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks|https://arxiv.org/abs/2005.11401|No plan!|
 |Self-RAG: Learning to Retrieve, Generate, And Critique Through Self-Reflection|https://arxiv.org/abs/2310.11511|No plan!|
 |InstructRetro: Instruction Tuning Post Retrieval-Augmented Pretraining|https://arxiv.org/abs/2310.07713|No plan!|
@@ -222,7 +222,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Benchmarks 🏆 & Evaluation Metric ⚔️
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |BIG-Bench Hard: Challenging BIG-Bench tasks and whether chain-of-thought can solve tham|https://arxiv.org/abs/2210.09261|Will be uploaded later!|
 |Large Language Models are not Fair Evaluators|https://arxiv.org/abs/2305.17926|Will be uploaded later!|
 |MT-Bench: Judging LLM-as-a-judge with MT-Bench|https://arxiv.org/abs/2306.05685|Will be uploaded later!|
@@ -232,7 +232,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Context of LLM 📜
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |A Length-Extrapolatable Transformer|https://arxiv.org/abs/2212.10554|No plan!|
 |Extending Context Window of Large Language Models via Positional Interpolation|https://arxiv.org/abs/2306.15595|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
 |LongNet: Scaling Transformers to 1,000,000,000 Tokens|https://arxiv.org/abs/2307.02486|https://cartinoe5930.tistory.com/entry/LM%EC%9D%98-context-window-%EA%B8%B8%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-%EC%A7%A7%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8C-%F0%9F%93%8F%F0%9F%A4%A8|
@@ -241,7 +241,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Analysis🔬
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Why can GPT learn in-context?|https://arxiv.org/abs/2212.10559|https://cartinoe5930.tistory.com/entry/Why-can-GPT-learn-in-context-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Sparks of Artificial General Intelligence: Early experiments with GPT-4|paper: https://arxiv.org/abs/2303.12712, youtube: https://www.youtube.com/watch?v=Mqg3aTGNxZ0|https://cartinoe5930.tistory.com/entry/Sparks-of-Artificial-General-Intelligence-Early-experiments-with-GPT-4-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |The False Promise of Imitating Proprietary LLMs|https://arxiv.org/abs/2305.15717|https://cartinoe5930.tistory.com/entry/%EA%B8%B0%EC%A1%B4-imitation-model%EC%9D%80-%EC%9E%98%EB%AA%BB-%ED%95%99%EC%8A%B5%EB%90%98%EA%B3%A0-%EC%9E%88%EB%8B%A4-%F0%9F%AB%A2-The-False-Promise-of-Imitating-Proprietary-L|
@@ -256,7 +256,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Interesting🫣
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature|https://arxiv.org/abs/2301.11305|https://cartinoe5930.tistory.com/entry/%EC%9D%B4-%EA%B8%80%EC%9D%B4-LM%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B8-%EA%B8%80%EC%9D%BC%EA%B9%8C-%EB%8F%84%EC%99%80%EC%A4%98-DetectGPT-DetectGPT-Zero-Shot-Machine-Generated-Text-Detection-using-Probability-Curvature-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback|https://arxiv.org/abs/2302.12813|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%9D%98-hallucination-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-Check-Your-Facts-and-Try-Again-Improving-Large-Language-Models-with-External-Knowledge-and-Automated-Feedback|
 |RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text|https://arxiv.org/abs/2305.13304|https://cartinoe5930.tistory.com/entry/ChatGPT%EC%97%90-%EB%B0%98%EB%B3%B5-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98LSTM%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%A9%B4-RecurrentGPT-Interactive-Generation-of-Arbitrarily-Long-Text-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -283,14 +283,14 @@ I write several articles to explain in detail some Deep Learning technologies. T
 
 ### Korean LM 🇰🇷
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Morpheme-aware Subword Tokenizer: An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks|https://arxiv.org/abs/2010.02534|Will be uploaded later!|
 |What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers|https://arxiv.org/abs/2109.04650|Will be uploaded later!|
 
 ## Computer Vision
 
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |history of CNN|LeNet, AlexNet, VGGNet, GoogLeNet, ResNet, ResNeXt, Sception, Mobilenet, DenseNet, EfficientNet, ConvNext|https://cartinoe5930.tistory.com/entry/CNN-network%EC%9D%98-%EC%97%AD%EC%82%AC|
 |ViT: An Image Worth 16 x 16 Words: Transformers for Image Recognition at Scale|https://arxiv.org/abs/2010.11929|https://cartinoe5930.tistory.com/entry/ViT-An-Image-Worth-16-x-16-Words-Transformers-for-Image-Recognition-at-Scale|
 |Swin Transformer: Hierarchical Vision Transformer using Shifted Winodws|https://arxiv.org/abs/2103.14030|https://cartinoe5930.tistory.com/entry/Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
@@ -299,7 +299,7 @@ I write several articles to explain in detail some Deep Learning technologies. T
 ## Multi-modal Models
 
 |Paper Title|Paper or reference site Link|Paper Review|
-|---|---|---|
+|:---:|---|---|
 |Let's learn about VLM(Visual-Language Model)|https://huggingface.co/blog/vision_language_pretraining#supporting-vision-language-models-in-%F0%9F%A4%97-transformers|https://cartinoe5930.tistory.com/entry/VLMVision-Language-Model%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90|
 |VisualBERT: A simple and Performant Baseline for Vision and Language |https://arxiv.org/abs/1908.03557|https://cartinoe5930.tistory.com/entry/VisualBERT-A-Simple-and-Performant-Baseline-for-Vision-and-Language-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |ViLBERT: Pre-training Task-Agnostic Visiolinguistic Representations for Visual-and-Language Tasks|https://arxiv.org/abs/1908.02265|https://cartinoe5930.tistory.com/entry/ViLBERT-Pretraining-Task-Agnostic-Visiolinguistic-Representations-for-Visual-and-Language-Tasks|
@@ -320,6 +320,6 @@ I write several articles to explain in detail some Deep Learning technologies. T
 ## Deep Learning Concept
 
 |Paper or Posting Title|reference site Link|Review|
-|---|---|---|
+|:---:|---|---|
 |Knowledge Distillation: Distilling the Knowledge in a Neural Network|https://arxiv.org/abs/1503.02531|https://cartinoe5930.tistory.com/entry/Distilling-the-Knowledge-in-a-Neural-Network-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0|
 |What is Zero-shot, One-shot, Few-shot Learning?|see my blog!|https://cartinoe5930.tistory.com/entry/Zero-shot-One-shot-Few-shot-Learning%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C|
